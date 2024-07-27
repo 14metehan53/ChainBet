@@ -36,7 +36,6 @@
 <h3>Nasıl Çalışır ?</h3>
   <ul style="list-style-type:circle">
     <li><h3>Kullanıcı Etkileşimi: Kullanıcılar, BTC fiyat tahminlerini göndermek için ChainBet akıllı kontratı ile etkileşime geçerler.</h3></li>
-    <li><h3>Data Fetching: At regular intervals, the smart contract fetches the latest BTC price using Chainlink Oracles.</li></h3>
     <li><h3>Veri Alımı: Belirli aralıklarla, akıllı kontrat Chainlink Oracle'larını kullanarak en güncel BTC fiyatını alır.</h3></li>
     <li><h3>Kazanan Belirleme: Belirtilen tahmin aralığının sonunda, akıllı kontrat tüm tahminleri kontrol eder. Tahminleri gerçek BTC fiyatına %1 aralığında yakın olan kullanıcılar kazanan olarak ilan edilir.</h3></li>
     <li><h3>Ödül Dağıtımı: Ödül Havuzu Kontratı, otomatik olarak ödülü kazananların adreslerine transfer eder.</h3></li>
