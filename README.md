@@ -25,7 +25,7 @@
 
 <hr/>
 <h3>TR</h3>
-<h3>ChainBetv1 Demo, kullanıcıların Bitcoin (BTC) fiyatını tahmin ederek ödüller kazanabileceği yenilikçi bir blockchain tabanlı tahmin platformudur. Ethereum blockchain üzerindeki akıllı kontratların gücünden yararlanarak, ChainBetv1 Demo, tüm tahminlerin ve sonuçların güvenli bir şekilde blockchain üzerinde kaydedildiği şeffaf ve adil bir oyun sunar.</h3>
+<h3>ChainBetv1 Demo, kullanıcıların Bitcoin (BTC) fiyatını tahmin ederek ödüller kazanabileceği yenilikçi bir blockchain tabanlı tahmin platformudur. Scroll ağının gücünden yararlanarak, ChainBetv1 Demo, tüm tahminlerin ve sonuçların güvenli bir şekilde blockchain üzerinde kaydedildiği şeffaf ve adil bir oyun sunar.</h3>
 <ul style="list-style-type:disc">
   <h3>Özellikler</h3>
   <ul style="list-style-type:circle">
