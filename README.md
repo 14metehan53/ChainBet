@@ -4,6 +4,13 @@
 
 <span>🟢Scroll Contract Address : https://sepolia.scrollscan.com/address/0x440536268d4B305697933924fe3B82C181EE3568 🟢</span>
 
+ <h4>EN</h4>
+ <h4>Assuming the contract is not functioning, when the contract is deployed, the first round will automatically begin. During this round, users must make their predictions within the first 15 minutes. If no predictions are made within the first 15 minutes, the <code>`checkWinner`</code> function will not execute, and the <code>`predictionDel`</code> function will automatically be called. This function resets everything, allowing you to start a new round. This process simulates the round restarting.</h4>
+
+ <h4>TR</h4>
+ <h4>Kontratın çalışmadığını varsayarak, kontrat dağıtıldığında ilk tur otomatik olarak başlar. Bu tur sırasında, kullanıcılar ilk 15 dakika içinde tahminlerini yapmalıdır. Eğer ilk 15 dakika boyunca kimse tahminde bulunmazsa, <code>`checkWinner`</code> fonksiyonu çalışmayacak ve otomatik olarak <code>`predictionDel`</code> fonksiyonu devreye girecektir. Bu fonksiyon her şeyi sıfırlar, böylece tur yeniden başlamış gibi olur.</h4>
+<hr/>
+
 <h3>EN</h3>
 <h3>ChainBetv1 Demo is an innovative blockchain-based prediction platform where users can predict the future price of Bitcoin (BTC / USD) (60 minutes) and potentially win rewards. Leveraging the power of the Scroll network, ChainBetv1 Demo ensures transparent and fair gameplay with all predictions and results securely recorded on the blockchain.</h3>
 <ul style="list-style-type:disc">
